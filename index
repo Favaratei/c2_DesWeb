@@ -6,9 +6,8 @@
         <title>Jogo de Adivinhação</title>
     </head>
     <body>
-        <script src="app.js"></script>
-        <h1 class="textofinal"> Este é o final do jogo! </h1>
-        <p>Você pode reiniciar o jogo clicando <b id="refresh">aqui</b> ou apertando F5.</p>
+        <script src="c2_desweb/app.js"></script>
+        <h1 class="textofinal"> fim do jogo! </h1>
     </body>
 </html>
 
